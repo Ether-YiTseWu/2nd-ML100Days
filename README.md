@@ -1,2 +1,2 @@
 # 2nd-ML100Days
-An Online Flipped Classroom (4/16~8/15)
+第二屆機器學習百日馬拉松Classroom (4/16~8/15)
