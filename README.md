@@ -1,7 +1,5 @@
-# 2nd-ML100Days
+# 2nd-ML100Days 第二屆機器學習百日馬拉松(4/16~8/15)
 An Online Flipped Classroom
->
-# 第二屆機器學習百日馬拉松  (4/16~8/15)
 >
 ## 學習內容
 * Part01：資料清理數據前處理
