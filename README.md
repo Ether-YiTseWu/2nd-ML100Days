@@ -1,5 +1,6 @@
 # 2nd-ML100Days (4/16~8/15)
 An Online Flipped Classroom
+![Mind Map](https://drive.google.com/open?id=1Y3OhAYZ3Ku9Lrrc7ZoC9AseTx-96O2xO)
 >
 ## Course content
 * Part01：資料清理數據前處理
