@@ -13,3 +13,16 @@ An Online Flipped Classroom. [Official website link.](https://ai100-2.cupoy.com/
 * Part06：深度學習理論與實作
 * Part07：初探深度學習使用Keras
 * Part08：深度學習應用卷積神經網路
+>
+## Project : Cat dog classification
+- Goal :    
+Train a model that have the ability to classify cats and dogs.
+>
+- Method :    
+Use Tensorflow CNN model to complete this classification.
+>
+- Result :    
+Kaggle Public Score : 0.91210 (use 4000 photos to train)   
+![](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_101~103_HW.PNG)
+>
+
