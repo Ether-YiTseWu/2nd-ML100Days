@@ -1,4 +1,6 @@
 # 2nd-ML100Days (4/16~8/15)
+>
+## Overview
 An Online Flipped Classroom. [Official website link.](https://ai100-2.cupoy.com/)
 >
 ## Mind map
@@ -23,6 +25,8 @@ Use Tensorflow CNN model to complete this classification.
 >
 - Result :    
 Kaggle Public Score : 0.91210 (use 4000 photos to train)   
+>
+>
 >
 >
 ![](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_101~103_HW_.PNG)
