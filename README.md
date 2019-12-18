@@ -6,11 +6,26 @@ An Online Flipped Classroom relating to machine learning. [Official website link
 ## Mind map
 ![](https://github.com/tailer954/2nd-ML100Days/blob/master/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E9%A6%AC%E6%8B%89%E6%9D%BE.png)
 >
+## Final project : Cat dog classification
+- Goal :    
+Train a model that have the ability to classify cats and dogs.
+>
+- Method :    
+Use Tensorflow CNN model to complete this classification.
+>
+- Result :    
+Kaggle Public Score : 0.92067 (use 4000 photos to train)   
+>
+>
+>
+>
+![](https://github.com/tailer954/2nd-ML100Days/blob/master/Final%20project%20%E3%80%81Cat%20dog%20classification/Final%20Project%20Score.PNG)
+>
 ## Course content
 ### Part01：資料清理數據前處理
-- Day 001 資料介紹與評估資料
-- Day 002 EDA 讀取資料 (EDA Data summary)
-- Day 003 如何新建一個 dataframe? 如何讀取其他資料? (非 csv 的資料)
+- [Day 001 資料介紹與評估資料](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_001_HW.ipynb)
+- [Day 002 EDA 讀取資料 (EDA Data summary)](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_002_HW.ipynb)
+- [Day 003 如何新建一個 dataframe? 如何讀取其他資料? (非 csv 的資料)](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_003_HW.ipynb)
 - Day 004 EDA 欄位的資料類型介紹及處理
 - Day 005 EDA 資料分佈
 - Day 006 EDA Outlier及處理
@@ -46,19 +61,3 @@ An Online Flipped Classroom relating to machine learning. [Official website link
 ### Part07：初探深度學習使用Keras
 ### Part08：深度學習應用卷積神經網路
 >
-## Final project : Cat dog classification
-- Goal :    
-Train a model that have the ability to classify cats and dogs.
->
-- Method :    
-Use Tensorflow CNN model to complete this classification.
->
-- Result :    
-Kaggle Public Score : 0.92067 (use 4000 photos to train)   
->
->
->
->
-![](https://github.com/tailer954/2nd-ML100Days/blob/master/Final%20project%20%E3%80%81Cat%20dog%20classification/Final%20Project%20Score.PNG)
->
-
