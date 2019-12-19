@@ -6,21 +6,6 @@ An Online Flipped Classroom relating to machine learning. [Official website link
 ## Mind map
 ![](https://github.com/tailer954/2nd-ML100Days/blob/master/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E9%A6%AC%E6%8B%89%E6%9D%BE.png)
 >
-## Final project : Cat dog classification
-- Goal :    
-Train a model that have the ability to classify cats and dogs.
->
-- Method :    
-Use Tensorflow CNN model to complete this classification.
->
-- Result :    
-Kaggle Public Score : 0.92067 (use 4000 photos to train)   
->
->
->
->
-![](https://github.com/tailer954/2nd-ML100Days/blob/master/Final%20project%20%E3%80%81Cat%20dog%20classification/Final%20Project%20Score.PNG)
->
 ## Course content
 ### Part01：資料清理數據前處理
 - [Day 1 資料介紹與評估資料](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_001_HW.ipynb)
@@ -48,13 +33,13 @@ Kaggle Public Score : 0.92067 (use 4000 photos to train)
 - [Day 21 數值型特徵 去除偏態](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_021_HW.ipynb)
 - [Day 22 類別型特徵 基礎處理](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_022_HW.ipynb)
 - [Day 23 類別型特徵 均值編碼](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_023_HW.ipynb)
-- Day 24 類別型特徵 其他進階處理
-- Day 25 時間型特徵
-- Day 26 特徵組合 數值與數值組合
-- Day 27 特徵組合 類別與數值組合
-- Day 28 特徵選擇
-- Day 29 特徵評估
-- Day 30 分類型特徵優化 葉編碼
+- [Day 24 類別型特徵 其他進階處理](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_024_HW.ipynb)
+- [Day 25 時間型特徵](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_025_HW.ipynb)
+- [Day 26 特徵組合 數值與數值組合](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_026_HW.ipynb)
+- [Day 27 特徵組合 類別與數值組合](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_027_HW.ipynb)
+- [Day 28 特徵選擇](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_028_HW.ipynb)
+- [Day 29 特徵評估](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_029_HW.ipynb)
+- [Day 30 分類型特徵優化 葉編碼](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_030_HW.ipynb)
 ### Part03：機器學習基礎模型建立
 - Day 31 機器學習概論
 - Day 32 機器學習-流程與步驟
@@ -103,5 +88,49 @@ Kaggle Public Score : 0.92067 (use 4000 photos to train)
 - Day 71 損失函數
 - Day 72 啟動函數
 - Day 73 梯度下降Gradient Descent
+- Day 74 Gradient Descent 數學原理
+- Day 75 BackPropagation
+- Day 76 優化器optimizers
+- Day 77 訓練神經網路的細節與技巧 - Validation and overfit
+- Day 78 訓練神經網路前的注意事項
+- Day 79 訓練神經網路的細節與技巧 - Learning rate effect
+- Day 80 練習 Day 優化器與學習率的組合與比較
+- Day 81 訓練神經網路的細節與技巧 - Regularization
+- Day 82 訓練神經網路的細節與技巧 - Dropout
+- Day 83 訓練神經網路的細節與技巧 - Batch normalization
+- Day 84 練習 Day 正規化/機移除/批次標準化的 組合與比較
+- Day 85 訓練神經網路的細節與技巧 - 使用 callbacks 函數做 earlystop
+- Day 86 訓練神經網路的細節與技巧 - 使用 callbacks 函數儲存 model
+- Day 87 訓練神經網路的細節與技巧 - 使用 callbacks 函數做 reduce learning rate
+- Day 88 訓練神經網路的細節與技巧 - 撰寫自己的 callbacks 函數
+- Day 89 訓練神經網路的細節與技巧 - 撰寫自己的 Loss function
+- Day 90 使用傳統電腦視覺與機器學習進行影像辨識
+- Day 91 練習 Day 使用傳統電腦視覺與機器學習進行影像辨識
 ### Part08：深度學習應用卷積神經網路
+- Day 92 卷積神經網路 (Convolution Neural Network, CNN) 簡介
+- Day 93 卷積神經網路架構細節
+- Day 94 卷積神經網路 - 卷積(Convolution)層與參數調整
+- Day 95 卷積神經網路 - 池化(Pooling)層與參數調整
+- Day 96 Keras 中的 CNN layers
+- Day 97 使用 CNN 完成 CIFAR-10 資料集
+- Day 98 訓練卷積神經網路的細節與技巧 - 處理大量數據
+- Day 99 訓練卷積神經網路的細節與技巧 - 處理小量數據
+- Day 100 訓練卷積神經網路的細節與技巧 - 轉移學習 (Transfer learning)
+>
+### Day 101~103 Kaggle期末考
+>
+## Final project : Cat dog classification
+- Goal :    
+Train a model that have the ability to classify cats and dogs.
+>
+- Method :    
+Use Tensorflow CNN model to complete this classification.
+>
+- Result :    
+Kaggle Public Score : 0.92067 (use 4000 photos to train)   
+>
+>
+>
+>
+![](https://github.com/tailer954/2nd-ML100Days/blob/master/Final%20project%20%E3%80%81Cat%20dog%20classification/Final%20Project%20Score.PNG)
 >
