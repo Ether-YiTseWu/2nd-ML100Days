@@ -41,40 +41,40 @@ An Online Flipped Classroom relating to machine learning. [Official website link
 - [Day 29 特徵評估](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_029_HW.ipynb)
 - [Day 30 分類型特徵優化 葉編碼](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_030_HW.ipynb)
 ### Part03：機器學習基礎模型建立
-- Day 31 機器學習概論
-- Day 32 機器學習-流程與步驟
-- Day 33 機器如何學習?
-- Day 34 訓練/測試集切分的概念
-- Day 35 regression vs. classification
-- Day 36 評估指標選定/evaluation metrics
-- Day 37 regression model 介紹 - 線性迴歸/羅吉斯回歸
-- Day 38 regression model 程式碼撰寫
-- Day 39 regression model 介紹 - LASSO 回歸/ Ridge 回歸
-- Day 40 regression model 程式碼撰寫
-- Day 41 tree based model - 決策樹 (Decision Tree) 模型介紹
-- Day 42 tree based model - 決策樹程式碼撰寫
-- Day 43 tree based model - 隨機森林 (Random Forest) 介紹
-- Day 44 tree based model - 隨機森林程式碼撰寫
-- Day 45 tree based model - 梯度提升機 (Gradient Boosting Machine) 介紹
-- Day 46 tree based model - 梯度提升機程式碼撰寫
+- [Day 31 機器學習概論](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_031_HW.ipynb)
+- [Day 32 機器學習-流程與步驟](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_032_HW.ipynb)
+- [Day 33 機器如何學習?](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_033_HW.ipynb)
+- [Day 34 訓練/測試集切分的概念](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_034_HW.ipynb)
+- [Day 35 regression vs. classification](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_035_HW.ipynb)
+- [Day 36 評估指標選定/evaluation metrics](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_036_HW.ipynb)
+- [Day 37 regression model 介紹 - 線性迴歸/羅吉斯回歸](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_037_HW.ipynb)
+- [Day 38 regression model 程式碼撰寫](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_038_HW.ipynb)
+- [Day 39 regression model 介紹 - LASSO 回歸/ Ridge 回歸](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_039_HW.ipynb)
+- [Day 40 regression model 程式碼撰寫](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_040_HW.ipynb)
+- [Day 41 tree based model 決策樹 (Decision Tree) 模型介紹](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_041_HW.ipynb)
+- [Day 42 tree based model 決策樹程式碼撰寫](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_042_HW.ipynb)
+- [Day 43 tree based model 隨機森林 (Random Forest) 介紹](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_043_HW.ipynb)
+- [Day 44 tree based model 隨機森林程式碼撰寫](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_044_HW.ipynb)
+- [Day 45 tree based model 梯度提升機 (Gradient Boosting Machine) 介紹](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_045_HW.ipynb)
+- [Day 46 tree based model 梯度提升機程式碼撰寫](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_046_HW.ipynb)
 ### Part04：機器學習調整參數
-- Day 47 超參數調整與優化
-- Day 48 Kaggle 競賽平台介紹
-- Day 49 集成方法 : 混合泛化(Blending)
-- Day 50 集成方法 : 堆疊泛化(Stacking)
+- [Day 47 超參數調整與優化](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_047_HW.ipynb)
+- [Day 48 Kaggle 競賽平台介紹](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_048_HW.ipynb)
+- [Day 49 集成方法 : 混合泛化(Blending)](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_049_HW.ipynb)
+- [Day 50 集成方法 : 堆疊泛化(Stacking)](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_050_HW.ipynb)
 >
 ### Day 51~53 Kaggle期中考
 >
 ### Part05：非監督式機器學習
-- Day 54 clustering 1 非監督式機器學習簡介
-- Day 55 clustering 2 聚類算法
-- Day 56 K-mean 觀察 : 使用輪廓分析
-- Day 57 clustering 3 階層分群算法
-- Day 58 階層分群法 觀察 : 使用 2D 樣版資料集
-- Day 59 dimension reduction 1 降維方法-主成份分析
-- Day 60 PCA 觀察 : 使用手寫辨識資料集
-- Day 61 dimension reduction 2 降維方法-T-SNE
-- Day 62 t-sne 觀察 : 分群與流形還原
+- [Day 54 clustering 1 非監督式機器學習簡介](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_054_HW.ipynb)
+- [Day 55 clustering 2 聚類算法](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_055_HW.ipynb)
+- [Day 56 K-mean 觀察 : 使用輪廓分析](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_056_HW.ipynb)
+- [Day 57 clustering 3 階層分群算法](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_057_HW.ipynb)
+- [Day 58 階層分群法 觀察 : 使用 2D 樣版資料集](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_058_HW.ipynb)
+- [Day 59 dimension reduction 1 降維方法-主成份分析](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_059_HW.ipynb)
+- [Day 60 PCA 觀察 : 使用手寫辨識資料集](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_060_HW.ipynb)
+- [Day 61 dimension reduction 2 降維方法-T-SNE](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_061_HW.ipynb)
+- [Day 62 t-sne 觀察 : 分群與流形還原](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_062_HW.ipynb)
 ### Part06：深度學習理論與實作
 - Day 63 神經網路介紹
 - Day 64 深度學習體驗 : 模型調整與學習曲線
