@@ -76,36 +76,36 @@ An Online Flipped Classroom relating to machine learning. [Official website link
 - [Day 61 dimension reduction 2 降維方法-T-SNE](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_061_HW.ipynb)
 - [Day 62 t-sne 觀察 : 分群與流形還原](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_062_HW.ipynb)
 ### Part06：深度學習理論與實作
-- Day 63 神經網路介紹
-- Day 64 深度學習體驗 : 模型調整與學習曲線
-- Day 65 深度學習體驗 : 啟動函數與正規化
+- [Day 63 神經網路介紹](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_063_HW.ipynb)
+- [Day 64 深度學習體驗 : 模型調整與學習曲線](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_064_HW.ipynb)
+- [Day 65 深度學習體驗 : 啟動函數與正規化](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_065_HW.ipynb)
 ### Part07：初探深度學習使用Keras
-- Day 66 Keras 安裝與介紹
-- Day 67 Keras Dataset
-- Day 68 Keras Sequential API
-- Day 69 Keras Module API
-- Day 70 Multi-layer Perception多層感知
-- Day 71 損失函數
-- Day 72 啟動函數
-- Day 73 梯度下降Gradient Descent
-- Day 74 Gradient Descent 數學原理
-- Day 75 BackPropagation
-- Day 76 優化器optimizers
-- Day 77 訓練神經網路的細節與技巧 - Validation and overfit
-- Day 78 訓練神經網路前的注意事項
-- Day 79 訓練神經網路的細節與技巧 - Learning rate effect
-- Day 80 練習 Day 優化器與學習率的組合與比較
-- Day 81 訓練神經網路的細節與技巧 - Regularization
-- Day 82 訓練神經網路的細節與技巧 - Dropout
-- Day 83 訓練神經網路的細節與技巧 - Batch normalization
-- Day 84 練習 Day 正規化/機移除/批次標準化的 組合與比較
-- Day 85 訓練神經網路的細節與技巧 - 使用 callbacks 函數做 earlystop
-- Day 86 訓練神經網路的細節與技巧 - 使用 callbacks 函數儲存 model
-- Day 87 訓練神經網路的細節與技巧 - 使用 callbacks 函數做 reduce learning rate
-- Day 88 訓練神經網路的細節與技巧 - 撰寫自己的 callbacks 函數
-- Day 89 訓練神經網路的細節與技巧 - 撰寫自己的 Loss function
-- Day 90 使用傳統電腦視覺與機器學習進行影像辨識
-- Day 91 練習 Day 使用傳統電腦視覺與機器學習進行影像辨識
+- [Day 66 Keras 安裝與介紹](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_066_HW.ipynb)
+- [Day 67 Keras Dataset](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_067_HW.ipynb)
+- [Day 68 Keras Sequential API](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_068_HW.ipynb)
+- [Day 69 Keras Module API](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_069_HW.ipynb)
+- [Day 70 Multi-layer Perception多層感知](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_070_HW.ipynb)
+- [Day 71 損失函數](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_071_HW.ipynb)
+- [Day 72 啟動函數](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_072_HW.ipynb)
+- [Day 73 梯度下降Gradient Descent](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_073_HW.ipynb)
+- [Day 74 Gradient Descent 數學原理](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_074_HW.ipynb)
+- [Day 75 BackPropagation](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_075_HW.ipynb)
+- [Day 76 優化器optimizers](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_076_HW.ipynb)
+- [Day 77 訓練神經網路的細節與技巧 - Validation and overfit](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_077_HW.ipynb)
+- [Day 78 訓練神經網路前的注意事項](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_078_HW.ipynb)
+- [Day 79 訓練神經網路的細節與技巧 - Learning rate effect](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_079_HW.ipynb)
+- [Day 80 練習 Day 優化器與學習率的組合與比較](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_080_HW.ipynb)
+- [Day 81 訓練神經網路的細節與技巧 - Regularization](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_081_HW.ipynb)
+- [Day 82 訓練神經網路的細節與技巧 - Dropout](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_082_HW.ipynb)
+- [Day 83 訓練神經網路的細節與技巧 - Batch normalization](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_083_HW.ipynb)
+- [Day 84 練習 Day 正規化/機移除/批次標準化的 組合與比較](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_084_HW.ipynb)
+- [Day 85 訓練神經網路的細節與技巧 - 使用 callbacks 函數做 earlystop](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_085_HW.ipynb)
+- [Day 86 訓練神經網路的細節與技巧 - 使用 callbacks(https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_086_HW.ipynb) 函數儲存 model(https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_062_HW.ipynb)
+- [Day 87 訓練神經網路的細節與技巧 - 使用 callbacks 函數做 reduce learning rate](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_087_HW.ipynb)
+- [Day 88 訓練神經網路的細節與技巧 - 撰寫自己的 call(https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_062_HW.ipynb)backs 函數](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_088_HW.ipynb)
+- [Day 89 訓練神經網路的細節與技巧 - 撰寫自己的 Loss function](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_089_HW.ipynb)
+- [Day 90 使用傳統電腦視覺與機器學習進行影像辨識](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_090_HW.ipynb)
+- [Day 91 練習 Day 使用傳統電腦視覺與機器學習進行影像辨識](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_091_HW.ipynb)
 ### Part08：深度學習應用卷積神經網路
 - Day 92 卷積神經網路 (Convolution Neural Network, CNN) 簡介
 - Day 93 卷積神經網路架構細節
