@@ -107,15 +107,15 @@ An Online Flipped Classroom relating to machine learning. [Official website link
 - [Day 90 使用傳統電腦視覺與機器學習進行影像辨識](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_090_HW.ipynb)
 - [Day 91 練習 Day 使用傳統電腦視覺與機器學習進行影像辨識](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_091_HW.ipynb)
 ### Part08：深度學習應用卷積神經網路
-- Day 92 卷積神經網路 (Convolution Neural Network, CNN) 簡介
-- Day 93 卷積神經網路架構細節
-- Day 94 卷積神經網路 - 卷積(Convolution)層與參數調整
-- Day 95 卷積神經網路 - 池化(Pooling)層與參數調整
-- Day 96 Keras 中的 CNN layers
-- Day 97 使用 CNN 完成 CIFAR-10 資料集
-- Day 98 訓練卷積神經網路的細節與技巧 - 處理大量數據
-- Day 99 訓練卷積神經網路的細節與技巧 - 處理小量數據
-- Day 100 訓練卷積神經網路的細節與技巧 - 轉移學習 (Transfer learning)
+- [Day 92 卷積神經網路 (Convolution Neural Network, CNN) 簡介](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_092_HW.ipynb)
+- [Day 93 卷積神經網路架構細節](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_093_HW.ipynb)
+- [Day 94 卷積神經網路 - 卷積(Convolution)層與參數調整](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_094_HW.ipynb)
+- [Day 95 卷積神經網路 - 池化(Pooling)層與參數調整](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_095_HW.ipynb)
+- [Day 96 Keras 中的 CNN layers](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_096_HW.ipynb)
+- [Day 97 使用 CNN 完成 CIFAR-10 資料集](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_097_HW.ipynb)
+- [Day 98 訓練卷積神經網路的細節與技巧 - 處理大量數據](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_098_HW.ipynb)
+- [Day 99 訓練卷積神經網路的細節與技巧 - 處理小量數據](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_099_HW.ipynb)
+- [Day 100 訓練卷積神經網路的細節與技巧 - 轉移學習 (Transfer learning)](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_100_HW.ipynb)
 >
 ### Day 101~103 Kaggle期末考
 >
