@@ -100,7 +100,7 @@ An Online Flipped Classroom relating to machine learning. [Official website link
 - [Day 83 訓練神經網路的細節與技巧 - Batch normalization](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_083_HW.ipynb)
 - [Day 84 練習 Day 正規化/機移除/批次標準化的 組合與比較](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_084_HW.ipynb)
 - [Day 85 訓練神經網路的細節與技巧 - 使用 callbacks 函數做 earlystop](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_085_HW.ipynb)
-- [Day 86 訓練神經網路的細節與技巧 - 使用 callbacks]函數儲存 model(https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_062_HW.ipynb)
+- [Day 86 訓練神經網路的細節與技巧 - 使用 callbacks 函數儲存 model](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_062_HW.ipynb)
 - [Day 87 訓練神經網路的細節與技巧 - 使用 callbacks 函數做 reduce learning rate](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_087_HW.ipynb)
 - [Day 88 訓練神經網路的細節與技巧 - 撰寫自己的 callbacks 函數](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_088_HW.ipynb)
 - [Day 89 訓練神經網路的細節與技巧 - 撰寫自己的 Loss function](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_089_HW.ipynb)
