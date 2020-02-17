@@ -121,10 +121,10 @@ An Online Flipped Classroom relating to machine learning. [Official website link
 >
 ## Final project : Cat dog classification
 - Goal :    
-Train a model that have the ability to classify cats and dogs.
+Train a model that have the ability to classify cats and dogs. In addition, use tkinter and the architecture of this model to write a GUI in order to demo conveniently
 >
 - Method :    
-Use Tensorflow CNN model to complete this classification.
+Use Tensorflow CNN model to complete this classification
 >
 - Result :    
 Kaggle Public Score : 0.92067 (use 4000 photos to train)   
@@ -132,5 +132,7 @@ Kaggle Public Score : 0.92067 (use 4000 photos to train)
 >
 >
 >
-![](https://github.com/tailer954/2nd-ML100Days/blob/master/Final%20project%20%E3%80%81Cat%20dog%20classification/Final%20Project%20Score.PNG)
+![](https://github.com/tailer954/2nd-ML100Days/blob/master/Final%20project%20%E3%80%81Cat%20dog%20classification/Final%20Project%20Score.PNG)       
+- GUI Result :    
+![](https://github.com/tailer954/2nd-ML100Days/blob/master/Final%20project%20%E3%80%81Cat%20dog%20classification/GUI%20appearance.png)  
 >
