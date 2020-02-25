@@ -24,7 +24,7 @@ An Online Flipped Classroom relating to machine learning. [Official website link
 - [Day 13 程式實作 把連續型變數離散化](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_013_HW.ipynb)
 - [Day 14 Subplots](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_014_HW.ipynb)
 - [Day 15 Heatmap & Grid-plot](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_015_HW.ipynb)
-- [Day 16 模型初體驗 Logistic Regression](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_016_HW.ipynb)
+- [Day 16 模型初體驗 Logistic Regression](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_016_HW.PNG)
 ### Part02：資料科學特徵工程技術
 - [Day 17 特徵工程簡介](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_017_HW.ipynb)
 - [Day 18 特徵類型](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_018_HW.ipynb)
