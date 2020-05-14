@@ -54,12 +54,12 @@ An Online Flipped Classroom relating to machine learning. [Official website link
 - [Day 41 tree based model 決策樹 (Decision Tree) 模型介紹](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_041_HW.ipynb)
 - [Day 42 tree based model 決策樹程式碼撰寫](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_042_HW.ipynb)
 - [Day 43 tree based model 隨機森林 (Random Forest) 介紹](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_043_HW.ipynb)
-- [Day 44 tree based model 隨機森林程式碼撰寫](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_044_HW.ipynb)
+- Day 44 tree based model 隨機森林程式碼撰寫
 - [Day 45 tree based model 梯度提升機 (Gradient Boosting Machine) 介紹](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_045_HW.ipynb)
 - [Day 46 tree based model 梯度提升機程式碼撰寫](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_046_HW.ipynb)
 ### Part04：機器學習調整參數
 - [Day 47 超參數調整與優化](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_047_HW.ipynb)
-- [Day 48 Kaggle 競賽平台介紹](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_048_HW.ipynb)
+- [Day 48 Kaggle 競賽平台介紹](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_048_HW.PNG)
 - [Day 49 集成方法 : 混合泛化(Blending)](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_049_HW.ipynb)
 - [Day 50 集成方法 : 堆疊泛化(Stacking)](https://github.com/tailer954/2nd-ML100Days/blob/master/homework/Day_050_HW.ipynb)
 >
