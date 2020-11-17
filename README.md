@@ -121,7 +121,7 @@ An Online Flipped Classroom relating to machine learning. [Official website link
 >
 ## Final project : Cat dog classification
 - Goal :    
-Train a model that have the ability to classify cats and dogs. In addition, use tkinter and the architecture of this model to write a GUI in order to demo conveniently. [GUI download url](https://mega.nz/#!UHpxnDBD!WTqlhmbQCOY0GseApFGy-5lDblI0tS02K4uoEp7qVOU)
+Train a model that has the ability to classify cats and dogs. In addition, I use tkinter to write a GUI program for convenience. [GUI download url](https://mega.nz/#!UHpxnDBD!WTqlhmbQCOY0GseApFGy-5lDblI0tS02K4uoEp7qVOU)
 >
 - Method :    
 Use Tensorflow CNN model to complete this classification
